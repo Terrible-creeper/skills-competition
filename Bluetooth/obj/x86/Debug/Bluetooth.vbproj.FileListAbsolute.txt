@@ -1,0 +1,63 @@
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\bin\Debug\Bluetooth.xml
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\obj\x86\Debug\Bluetooth.xml
+C:\Users\USER\AppData\Local\Temporary Projects\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\bin\Debug\Bluetooth.xml
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+C:\Users\USER\Desktop\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.Cache
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\bin\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\vbBluetooth\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.Cache
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\bin\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+C:\Users\chihk\OneDrive\桌面\109工科技藝競賽軟體\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.Cache
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\bin\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.Cache
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form2.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form3.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\bin\Debug\Bluetooth.xml
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form2.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Form3.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.Cache
+C:\Users\chihk\OneDrive\桌面\藍牙VB - 複製\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.config
+F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
+F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
+F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
