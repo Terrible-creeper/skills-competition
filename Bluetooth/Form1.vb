@@ -610,6 +610,10 @@ Public Class Form1
         End If
     End Sub
 
+    Private Sub S3_Click(sender As Object, e As EventArgs) Handles S3.Click
+        Form3.Show()
+    End Sub
+
     Private Sub beepsound()
         Thread.Sleep(1)
         Beep(550, 500)

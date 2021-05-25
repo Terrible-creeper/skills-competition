@@ -61,3 +61,17 @@ F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\bin\Debug\Bluetooth.exe.confi
 F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.exe
 F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.xml
 F:\王詠聖\藍牙VB - 複製\Bluetooth\Bluetooth\obj\x86\Debug\Bluetooth.pdb
+D:\Download\Johnny_Five\skills-competition\Bluetooth\bin\Debug\Bluetooth.exe.config
+D:\Download\Johnny_Five\skills-competition\Bluetooth\bin\Debug\Bluetooth.exe
+D:\Download\Johnny_Five\skills-competition\Bluetooth\bin\Debug\Bluetooth.pdb
+D:\Download\Johnny_Five\skills-competition\Bluetooth\bin\Debug\Bluetooth.xml
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.vbprojAssemblyReference.cache
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.Form1.resources
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.Form2.resources
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.Form3.resources
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.Resources.resources
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.GenerateResource.cache
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.vbproj.CoreCompileInputs.cache
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.exe
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.xml
+D:\Download\Johnny_Five\skills-competition\Bluetooth\obj\x86\Debug\Bluetooth.pdb

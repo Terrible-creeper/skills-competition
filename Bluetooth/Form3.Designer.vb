@@ -41,7 +41,7 @@ Partial Class Form3
         Me.ClientSize = New System.Drawing.Size(284, 261)
         Me.Controls.Add(Me.ListBox1)
         Me.Name = "Form3"
-        Me.Text = "Form3"
+        Me.Text = "網路介面卡"
         Me.ResumeLayout(False)
 
     End Sub

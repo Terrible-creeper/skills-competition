@@ -49,9 +49,9 @@ Partial Class Form1
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label9 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
+        Me.Button5 = New System.Windows.Forms.Button()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Button6 = New System.Windows.Forms.Button()
-        Me.Button5 = New System.Windows.Forms.Button()
         Me.Button4 = New System.Windows.Forms.Button()
         Me.GroupBox2 = New System.Windows.Forms.GroupBox()
         Me.GroupBox3 = New System.Windows.Forms.GroupBox()
@@ -376,6 +376,15 @@ Partial Class Form1
         Me.Label3.TabIndex = 49
         Me.Label3.Text = "LED1"
         '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(12, 88)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(64, 31)
+        Me.Button5.TabIndex = 46
+        Me.Button5.Text = "Odd"
+        Me.Button5.UseVisualStyleBackColor = True
+        '
         'Label2
         '
         Me.Label2.AutoSize = True
@@ -394,15 +403,6 @@ Partial Class Form1
         Me.Button6.TabIndex = 47
         Me.Button6.Text = "Clear"
         Me.Button6.UseVisualStyleBackColor = True
-        '
-        'Button5
-        '
-        Me.Button5.Location = New System.Drawing.Point(12, 88)
-        Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(64, 31)
-        Me.Button5.TabIndex = 46
-        Me.Button5.Text = "Odd"
-        Me.Button5.UseVisualStyleBackColor = True
         '
         'Button4
         '
